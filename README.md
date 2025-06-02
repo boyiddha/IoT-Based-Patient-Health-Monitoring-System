@@ -3,6 +3,7 @@ Required Components: ESP32 Board, MAX30100 Pulse Oximeter Sensor, DS18B20 Sensor
 
 # Published Link:
 1.[International Journal of Advanced Research (IJAR)](https://www.journalijar.com/article/45406/implementation-of-iot-based-patient-health-monitoring-system-using-esp32-web-server/)
+
 2. [ResearchGate](https://www.researchgate.net/publication/372268729_IMPLEMENTATION_OF_IOT_BASED_PATIENT_HEALTH_MONITORING_SYSTEM_USING_ESP32_WEB_SERVER)
 
 
